@@ -6,6 +6,8 @@
 
 ![Cauê GitHub stats](https://github-readme-stats.vercel.app/api?username=caaueswl12&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/caaueswl12/github-readme-stats)
+
 ## Technologies i use 👨🏼‍💻
 
 <div style="display: inline_block"><br/>
@@ -14,4 +16,5 @@
   <img align= "center" alt="Oracle" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Estudante de Analisé e Desenvolvimento de Sistemas apaixonado por técnologias 
+Estudante de Analisé e Desenvolvimento de Sistemas apaixonado por técnologias!!! 👍
+
